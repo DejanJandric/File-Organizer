@@ -1,6 +1,6 @@
 # 📁 Folder Organizer
 
-Simple **Python** script that moves/organizes all your file types stored in the Downloads folder location.
+🔹Simple **Python** script that moves/organizes all your file types stored in the Downloads folder location.
 
 **Basic tasks that the script can do:**
 
@@ -14,7 +14,7 @@ Simple **Python** script that moves/organizes all your file types stored in the 
 
 • Move the file(s).
 
-**Requirements:**
+🔹**Requirements:**
 
 • Python 3.x
 
@@ -23,7 +23,7 @@ Simple **Python** script that moves/organizes all your file types stored in the 
 
 
 
-## Installation
+🔹## Installation
 
 • Clone or download this script.
 
@@ -33,7 +33,7 @@ Simple **Python** script that moves/organizes all your file types stored in the 
     
 ## Tech Stack
 
-**Language:** Python
+🔹**Language:** Python
 
 **Libraries:** Shutil, Pathlib
 
