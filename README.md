@@ -2,7 +2,7 @@
 
 Simple **Python** script that moves/organizes all your file types stored in the Downloads folder location.
 
-**Basic tasks that script can do:**
+**Basic tasks that the script can do:**
 
 • Scans the DOWNLOADS_DIR and moves files into subfolders based on the FOLDER_MAP.
 
