@@ -1,4 +1,4 @@
-# Folder Organizer
+# 📁 Folder Organizer
 
 Simple **Python** script that moves/organizes all your file types stored in the Downloads folder location.
 
